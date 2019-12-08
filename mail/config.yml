@@ -2,7 +2,6 @@ global:
   smtp_smarthost: 'smtp.126.com:25'
   smtp_from: 'gavin_w@126.com'
   smtp_auth_username: 'gavin_w@126.com'
-  smtp_auth_password: 'Faw1314'
 
 route:
   # The labels by which incoming alerts are grouped together. For example,
